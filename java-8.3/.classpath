@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="试卷案例"/>
+	<classpathentry kind="src" path="密码检验案例"/>
+	<classpathentry kind="src" path="银行案例"/>
+	<classpathentry kind="src" path="设计模式"/>
+	<classpathentry kind="src" path="集合"/>
+	<classpathentry kind="src" path="IO"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="src" path="阶段案例_购物"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
