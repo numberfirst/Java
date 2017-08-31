@@ -15,7 +15,7 @@ public class TestOne {
 		for(int i:b) {
 			System.out.println(i);
 		}
-
+		String s="dd";
 	}
 
 }
